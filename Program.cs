@@ -1,7 +1,7 @@
 ﻿ExploreIf();
 void ExploreIf()
 {
-int a = 5;
+int a = 8;
 int b = 3;
 if (a + b > 10)
 {
